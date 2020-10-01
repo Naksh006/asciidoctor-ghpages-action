@@ -30,7 +30,7 @@ We taste our own medicine by publishing this reposiroty in http://manoelcampos.c
 endif::[]
 
 ifndef::env-github[]
-== Project on GitHub
+== Project on Git
 
 View the https://github.com/manoelcampos/asciidoctor-ghpages-action[project on GitHub] and take the chance to give it a star.
 endif::[]
